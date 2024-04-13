@@ -1,0 +1,65 @@
+[
+  {
+      "id": 1,
+      "nombre": "Bolsa Bag Adidas",
+      "precio": 3000,
+      "categoria": "Ropa",
+      "imagen": "../img/bagAdidas.jpg"
+  },
+  {
+      "id": 2,
+      "nombre": "Balon Wilson",
+      "precio": 3000,
+      "categoria": "Ropa",
+      "imagen": "../img/balonWilson.jpg"
+  },
+  {
+      "id": 3,
+      "nombre": "Calcetas Adidas",
+      "precio": 3000,
+      "categoria": "Ropa",
+      "imagen": "../img/calcetasAdidas.jpg"
+  },
+  {
+      "id": 4,
+      "nombre": "Gorra Joma",
+      "precio": 7000,
+      "categoria": "Ropa",
+      "imagen": "../img/gorraJoma.jpg"
+  },
+  {
+      "id": 5,
+      "nombre": "Gorra Los Angeles",
+      "precio": 7000,
+      "categoria": "Ropa",
+      "imagen": "../img/GorraLA.jpg"
+  },
+  {
+      "id": 6,
+      "nombre": "Gorra Los Yankis",
+      "precio": 7000,
+      "categoria": "Ropa",
+      "imagen": "../img/gorraYankis.jpg"
+  },
+  {
+      "id": 7,
+      "nombre": "Pans Deportivo Adidas",
+      "precio": 8000,
+      "categoria": "Ropa",
+      "imagen": "../img/pansAdidas.jpg"
+  },
+  {
+      "id": 8,
+      "nombre": "Playera Puma",
+      "precio": 8000,
+      "categoria": "Ropa",
+      "imagen": "../img/playeraPuma.jpg"
+  },
+  {
+      "id": 9,
+      "nombre": "Short Adidas",
+      "precio": 8000,
+      "categoria": "Ropa",
+      "imagen": "../img/shortAdidas.jpg"
+  }
+]
